@@ -5,5 +5,5 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 Users will enter their name and a picture if they would like, answer the survey and pair them to their new friend!
 
-portfolio  https://blznk128.github.io/newportfolio.html
+portfolio  https://blznk128.github.io/#portfolioJump
 heroku. https://intense-basin-30733.herokuapp.com/
