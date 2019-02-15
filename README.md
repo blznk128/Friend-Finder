@@ -9,5 +9,5 @@ Technologies used: HTML, CSS, Body_Parser, Path, Express and Bootstrap.
 
 Object of this assignment is to have your "back end" talking to your "front end". You have the user fill out the questionnaire and send that data to your back end, and have the back end compare the users information with the other users information and return the "friend" match to the screen.
 
-portfolio  https://blznk128.github.io/#portfolioJump
+portfolio  www.bennyborunda.com
 heroku. https://intense-basin-30733.herokuapp.com/
